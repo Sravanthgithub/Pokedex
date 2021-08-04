@@ -1,2 +1,2 @@
 # pokedex
-A fun little project
+A fun little project which converts a bunch of JPGs to PNGs
