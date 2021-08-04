@@ -1,1 +1,2 @@
-# Pokedex--Image-Processing-
+# pokedex
+A fun little project
